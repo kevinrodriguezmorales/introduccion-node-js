@@ -1,0 +1,23 @@
+{
+  "name": "intro-node-js",
+  "version": "1.0.0",
+  "description": "Introduction module Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinrodriguezmorales/introduccion-node-js.git"
+  },
+  "keywords": [
+    "introduction",
+    "nodejs"
+  ],
+  "author": "Kevin Rodriguez Morales <kevindeywin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinrodriguezmorales/introduccion-node-js/issues"
+  },
+  "homepage": "https://github.com/kevinrodriguezmorales/introduccion-node-js#readme"
+}
